@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Qloney/webpack2TestProject#readme",
   "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.2",
     "webpack": "^2.2.0-rc.0"
   }
 }
