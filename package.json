@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Qloney/webpack2TestProject/issues"
   },
-  "homepage": "https://github.com/Qloney/webpack2TestProject#readme"
+  "homepage": "https://github.com/Qloney/webpack2TestProject#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
 }
